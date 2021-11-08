@@ -1,0 +1,15 @@
+body{
+    font-family: Helvetica, sans-serif;
+    color:whitesmoke;
+    background-color: burlywood;
+    text-align: justify;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.section-title{
+    font-weight: 700;
+}
