@@ -1,0 +1,65 @@
+* {
+	background-color: rgb(68, 48, 48);
+	color: white;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: space-between;
+}
+
+td {
+	padding-right: 15px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1, 
+h3 {
+	text-align: center;
+}
+
+.list-container {
+	text-align: center;
+}
+
+ol{
+	display: inline-block;
+	text-align: left;
+}
+
+a {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+a:link {
+	color: rgb(255, 255, 255);
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:visited {
+	color: pink;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+a:hover {
+	color: red;
+	background-color: transparent;
+	text-decoration: underline;
+}
+
+a:active {
+	color: yellow;
+	background-color: transparent;
+	text-decoration: underline;
+}
