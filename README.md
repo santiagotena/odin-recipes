@@ -1,7 +1,7 @@
 # odin-recipes
 
 <p align="center">
-<img src="https://www.theodinproject.com/mstile-310x310.png" alt="The Odin Project Logo" width="100" height="100">
+<img src="https://github.com/santiagotena/assets/blob/master/logos/TOP%20logo.png?raw=true" alt="The Odin Project Logo" width="100" height="100">
 </p>
 
 This is the first project in the curriculum of The Odin Project.
